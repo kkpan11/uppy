@@ -1,17 +1,19 @@
 {
-  "name": "@uppy/google-photos-picker",
-  "description": "The Google Photos Picker plugin for Uppy lets users import files from their Google Photos account",
-  "version": "0.2.1",
+  "name": "@uppy/webdav",
+  "description": "Import files from WebDAV into Uppy.",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
+  "types": "types/index.d.ts",
   "type": "module",
   "keywords": [
     "file uploader",
-    "google photos",
-    "google picker",
-    "cloud storage",
     "uppy",
-    "uppy-plugin"
+    "uppy-plugin",
+    "webdav",
+    "provider",
+    "photos",
+    "videos"
   ],
   "homepage": "https://uppy.io",
   "bugs": {
